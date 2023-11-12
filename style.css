@@ -1,0 +1,47 @@
+body {
+    background-color: bisque;
+    text-align: center;
+
+}
+
+h4 {
+    text-align: center;
+    background-image: url();
+}
+
+h1 {
+    text-align: center;
+    background-color: burlywood;
+    color: blue;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3duEi2V4ZrLleBiaM6NEBsG_pA-3lvVgv8A&usqp=CAU);
+}
+
+h3 {
+    text-align: center;
+}
+
+div {
+
+    border-radius: 25px;
+    padding: 1rem;
+    
+    text-align: center;
+    width: 490px;
+    margin-left: 36%;
+    text-align: center;
+    height: auto;
+    height: 515px;
+    padding: ;
+    background-image: url(https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-058-great-whale.png);
+}
+
+ul {
+    text-align: center;
+}
+
+div {
+
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
